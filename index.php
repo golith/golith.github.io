@@ -2,6 +2,8 @@
 <html>
 	<head>
 		<title>IT System Design | Home Page</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
 	<body>
 		<nav>
